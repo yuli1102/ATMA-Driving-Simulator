@@ -2,11 +2,20 @@
 
 Including:
 
-(1) Driving data collected from the driving simulation.(soon)
+(1) Driving data collected from the driving simulation. 
 
-(2) Gaze data collected from Tobii eye tracking.(soon)
+"Raw Data"-> participant xx -> "experiment 1" is the low traffic volume data, "experiment 2" is collected in high traffic volume. 
 
-(3) Code of data processing is attached.  The processed and combined data can be found in release.
+(2) Gaze data collected from Tobii eye tracking.
 
-(4) A demo of designed driving simulation. (soon)
+"Raw Data"-> participant xx -> "Eye_tracker_Data_Px_xxxx.xlsx". 
 
+(3) Code of data processing can be found in "Data Process" folder.  
+
+(4) The processed and combined data can be found in release. Name is "Driving_Simulation_Experiment_Data_All_0723.csv". 
+
+(5) A demo of designed driving simulation. (soon)
+
+
+
+The draft paper can be found here: (soon)
