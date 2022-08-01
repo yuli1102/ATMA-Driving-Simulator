@@ -16,6 +16,15 @@ Including:
 
 (5) A demo of designed driving simulation. (soon)
 
+This demo is only support keyboard. Some function keys are listed following:
+w --> accelarator;
+s --> brake;
+a,d --> wheel;
+q,e -->left/right indicator;
+B --> change to backing mode;
 
+More videos and details can be found in my website:
 
-The draft paper can be found here: (soon)
+Contact me if you need the source code for the simulation.
+
+(6) If you use the code or data or the simulation from this project. Please cite our paper. The draft paper can be found here: (soon)
