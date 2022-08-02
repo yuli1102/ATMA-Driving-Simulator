@@ -15,7 +15,7 @@
 (5) A demo of designed driving simulation. Download "Demo.zip" in release, click "HighwayI90.exe" to start the simulator.
 
 This demo is only support keyboard. Some function keys are listed following:
-w --> accelarator;
+w --> accelerator;
 s --> brake;
 a,d --> wheel;
 q,e -->left/right indicator;
