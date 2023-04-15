@@ -19,6 +19,13 @@ Li, Y., Wang, B., Li, W., & Qin, R. (2023). Simulation Study of Passing Driversâ
 ATMA: autonomous truck-mounted attenuator
 This driving simulator was designed and developed for the ATMA study. In this study, out team aim to discover how drivers passing through road maintenance areas perceive, understand, and react to the ATMA system.
 
+This shows What are the passing drivers supposed to do:
+
+This shows concerns with Drivers Around ATMA 
+![image](https://user-images.githubusercontent.com/44143351/232258753-d61f38a2-a6aa-4e81-9951-aebf5035b891.png)
+
+
+## driving sc
 
 (1) Driving data collected from the driving simulation. 
 
