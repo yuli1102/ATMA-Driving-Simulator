@@ -42,4 +42,3 @@ More videos and details can be found in my website:https://sites.google.com/view
 
 Contact me if you need the source code for the simulation.
 
-(6) If you use the code or data or the simulation from this project. Please cite our paper. The draft paper can be found here: (soon)
