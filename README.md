@@ -21,8 +21,13 @@ This driving simulator was designed and developed for the ATMA study. In this st
 
 This shows What are the passing drivers supposed to do:
 
-This shows concerns with Drivers Around ATMA 
-![image](https://user-images.githubusercontent.com/44143351/232258753-d61f38a2-a6aa-4e81-9951-aebf5035b891.png)
+![image](https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/expection-edit.gif)
+
+Concerns include:
+(1) Fail to change lane in time:
+(2) Cut into the ATMA system :
+(3) Drivers may fail to recognize the connected vehicles and autonomous driving technologies implemented in the ATMA
+
 
 
 ## driving sc
