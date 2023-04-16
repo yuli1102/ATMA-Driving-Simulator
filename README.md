@@ -21,19 +21,27 @@ This driving simulator was designed and developed for the ATMA study. In this st
 
 This gif shows What are the passing drivers supposed to do:
 <p align="center">
-  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/expection-edit.gif" width="60%" />
+  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/expection-edit.gif" width="40%" />
 </p>
 
 Concerns include:
 (1) Fail to change lane in time; (2) Cut into the ATMA system; (3) Drivers may fail to recognize the connected vehicles and autonomous driving technologies implemented in the ATMA.
 <p align="center">
-  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/fail%20change%20lane-edit.gif" width="45%" />
-  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/cut-in-edit.gif" width="45%" /> 
+  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/fail%20change%20lane-edit.gif" width="30%" />
+  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/cut-in-edit.gif" width="30%" /> 
 </p>
 
 
+## Simulator Design and Development
+### Road
+We simulated a segment of the interstate highway in New York state with a speed limit of 65 mph. Here is a comparison between our simulation and the real-world map on Google Maps. This road segment includes a rest area. In our experiment, participants started on the right side of the road and were asked to exit the highway and reach the rest area to complete the experiment.
+![image](https://user-images.githubusercontent.com/44143351/232259101-9e0c412c-9c02-4726-91b7-a267a6d6f136.png)
+### Views
+We designed two views for our driving simulator: the driver's view and the experiment coordinator's view. The driver's view includes a front view, rear views from the side mirrors, and a dashboard with the vehicle's speedometer and tachometer, as well as turn signal indicators. The experiment coordinator's view provides a bird's-eye view on the right side, which allows experiment coordinator to observe the experiment in progress and easily control the experiment settings from another monitor.
+![image](https://user-images.githubusercontent.com/44143351/232259147-b9d4ea28-3440-466a-a863-75c27a68d51b.png)
 
-## driving sc
+
+
 
 (1) Driving data collected from the driving simulation. 
 
