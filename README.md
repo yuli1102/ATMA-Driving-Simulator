@@ -15,8 +15,16 @@ Li, Y., Wang, B., Li, W., & Qin, R. (2023). Simulation Study of Passing Driversâ
 }
 ~~~~
 
+# Video demo
+This is an example of a screen recording video that was collected from one of the participants during the experiment.
+<p align="center">
+  <img src="https://github.com/yuli1102/ATMA-Driving-Simulator/blob/main/video%20demo.gif" width="70%" />
+</p>
+
+
 # ATMA-Driving-Simulator
 ATMA: autonomous truck-mounted attenuator
+
 This driving simulator was designed and developed for the ATMA study. In this study, out team aim to discover how drivers passing through road maintenance areas perceive, understand, and react to the ATMA system.
 
 This gif shows What are the passing drivers supposed to do:
@@ -76,13 +84,13 @@ In addition to the simulation and gaze data, we also ask participants to complet
 
 
 
-# Others
+### Code for data processing
+Code of data processing can be found in "Data Process" folder.  
 
-(3) Code of data processing can be found in "Data Process" folder.  
+The processed and combined data can be found in release. Name is "Driving_Simulation_Experiment_Data_All_0723.csv". 
 
-(4) The processed and combined data can be found in release. Name is "Driving_Simulation_Experiment_Data_All_0723.csv". 
-
-(5) A demo of designed driving simulation. Download "Demo.zip" in release, click "HighwayI90.exe" to start the simulator.
+## Simulation demo
+A demo of designed driving simulation. Download "Demo.zip" in release, click "HighwayI90.exe" to start the simulator.
 
 This demo is only support keyboard. Some function keys are listed following:
 w --> accelerator;
