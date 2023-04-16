@@ -72,11 +72,7 @@ Participants' gaze data is collected in 2-dimensional coordinates on the screen 
 The raw data can be found: "Raw Data"-> participant xx -> "Eye_tracker_Data_Px_xxxx.xlsx". 
 
 ### Questionnaire Data Collection
-In addition to the simulation and gaze data, we also ask participants to complete a questionnaire to obtain their subjective responses. The questionnaire includes questions related to participants' backgrounds, such as age, gender, and driving experience, as well as questions about their recall of the driving experience during the experiment, such as whether they remember the speed limit and why they changed lanes. The important part of the questionnaire consists of three questions related to participants' recognition of the ATMA, including whether they remember what the truck looks like, whether they know the follower truck is unmanned, and whether they understand the entir
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/44143351/232259504-ae0b327e-f7fe-4f77-8ade-f470d97cc3ab.png" width="50%" />
-</p>
-![image](https://user-images.githubusercontent.com/44143351/232259663-08f5b3ce-08df-4a3b-b9ce-23452f1c3b7f.png)
+In addition to the simulation and gaze data, we also ask participants to complete a questionnaire to obtain their subjective responses. The questionnaire includes questions related to participants' backgrounds, such as age, gender, and driving experience, as well as questions about their recall of the driving experience during the experiment, such as whether they remember the speed limit and why they changed lanes. The important part of the questionnaire consists of three questions related to participants' recognition of the ATMA, including whether they remember what the truck looks like, whether they know the follower truck is unmanned, and whether they understand the entire system. The questionare form, named as "Driving Simulator Experiment Questionnaire.pdf", can be found in this repository.
 
 
 
