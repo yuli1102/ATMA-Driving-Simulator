@@ -1,7 +1,7 @@
 # Citation
 If you use this repository, please cite the following paper:
 
-Li, Y., Wang, B., Li, W., & Qin, R. (2023). Simulation Study of Passing Drivers’ Responses to the Autonomous Truck-Mounted Attenuator System in Road Maintenance. Transportation Research Record, 0(0).
+Li, Y., Wang, B., Li, W., & Qin, R. (2023). Simulation Study of Passing Drivers’ Responses to the Autonomous Truck-Mounted Attenuator System in Road Maintenance. Transportation Research Record, 2677(6), 17–32.
 
 ~~~~  
 @article{li2023simulation,
