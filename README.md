@@ -8,9 +8,10 @@ Li, Y., Wang, B., Li, W., & Qin, R. (2023). Simulation Study of Passing Driversâ
   title={Simulation Study of Passing Driversâ€™ Responses to the Autonomous Truck-Mounted Attenuator System in Road Maintenance},
   author={Li, Yu and Wang, Bill and Li, William and Qin, Ruwen},
   journal={Transportation Research Record},
-  pages={03611981221144281},
-  year={2023},
-  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+  volume = {2677},
+  number = {6},
+  pages = {17-32},
+  year = {2023},
   doi = {10.1177/03611981221144281},
 }
 ~~~~
